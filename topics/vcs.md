@@ -1,6 +1,7 @@
 ## ⏲️ O que é um versionador?
 
 #### 👉 Pontos a considerar
+
 - Todo dev cria código
 - Não posso ter apenas uma cópia do código
 - Preciso trabalhar de maneira eficiente em equipe
@@ -8,6 +9,7 @@
 Essas são algumas das necessidades básicas quando se trabalha com um projeto de contrução de software de qualquer natureza.
 
 #### VSC - Version System Control
+
 - Ferramenta de gerenciamento de código fonte
 - Registra o histórico de alterações dos arquivos
 - Permite compartilhamento eficiente do código
@@ -29,6 +31,9 @@ De acordo com a pesquisa anual realizada pela Jetbrains "O Estado do Ecossistema
 - 👥 Integração da equipe
 
 #### Principais versionadores
+
+- [Subversion](./vcs-subversion.md)
+- [Mercurial](./vcs-mercurial.md)
 
 Leia mais em: [Conheça 5 ferramentas de controle de versão de software](https://gaea.com.br/conheca-5-ferramentas-de-controle-de-versao-de-software/)
 
