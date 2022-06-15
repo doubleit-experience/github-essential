@@ -23,7 +23,7 @@ Você vai aprender a trabalhar com o GIT, como criar e gerenciar seus commits e 
 
 ---
 
-Quer ficar por dentro das iniciativas de educação e treinamentos da DoubleIT? Nos acompanhe nas redes sociais?
+Quer ficar por dentro das iniciativas de educação e treinamentos da DoubleIT? Nos acompanhe nas redes sociais!
 
 [Linkedin](https://br.linkedin.com/company/doubleit) |
 [Instagram](https://www.instagram.com/doubleitconsultoria/?hl=en) |
