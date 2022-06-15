@@ -12,4 +12,18 @@ Você vai aprender a trabalhar com o GIT, como criar e gerenciar seus commits e 
 
 [🌱 Conheça o Git](./topics/know-git.md)
 
-[🚀 Vá além](./topics/external-refs.md)
+- 👣 Primeiros passos (em breve)
+- 📗 Entenda o funcionamento (em breve)
+- 🪖 Conceitos e comandos (em breve)
+- 🔀 Workflows (em breve)
+
+✳️ Conheça o GitHub (em breve)
+
+[🚀 Vá + além](./topics/external-refs.md)
+
+---
+
+Quer ficar por dentro das iniciativas de educação e treinamentos da DoubleIT? Nos acompanhe nas redes sociais?
+
+[Linkedin](https://br.linkedin.com/company/doubleit)
+[Instagram](https://www.instagram.com/doubleitconsultoria/?hl=en)
