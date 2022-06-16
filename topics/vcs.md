@@ -13,15 +13,21 @@ Essas são algumas das necessidades básicas quando se trabalha com um projeto d
 - Ferramenta de gerenciamento de código fonte
 - Registra o histórico de alterações dos arquivos
 - Permite compartilhamento eficiente do código
+- Podem ser:
+  - distribuídos: múltiplas cópias do código
+  - centralizados: apenas uma cópia num servidor
 
-Leia mais em: [O que é controle de versão de software e como usar no seu projeto](https://blog.revelo.com.br/controle-versao-software-como-usar/)
+Leia mais em:
+
+- [O que é controle de versão de software e como usar no seu projeto](https://blog.revelo.com.br/controle-versao-software-como-usar/)
+- [Why you should move from centralized version control to distributed version control](https://about.gitlab.com/blog/2020/11/19/move-to-distributed-vcs/)
 
 <br/>
 De acordo com a pesquisa anual realizada pela Jetbrains "O Estado do Ecossistema de Desenvolvedores de 2021", <b>85% dos desenvolvedores utilizam um versionador frequentemente</b> em suas equipes.
 
 <br/><br/>
 
-![GitHub Essential Logo](./../assets/images/research-01.png)
+![Pesquisa anual realizada pela Jetbrains "O Estado do Ecossistema de Desenvolvedores de 2021"](./../assets/images/research-01.png)
 
 #### Vantagens de uso de um versionador
 
@@ -34,6 +40,7 @@ De acordo com a pesquisa anual realizada pela Jetbrains "O Estado do Ecossistema
 
 - [Subversion](./vcs-subversion.md)
 - [Mercurial](./vcs-mercurial.md)
+- [Git](./know-git.md)
 
 Leia mais em: [Conheça 5 ferramentas de controle de versão de software](https://gaea.com.br/conheca-5-ferramentas-de-controle-de-versao-de-software/)
 
