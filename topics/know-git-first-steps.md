@@ -13,3 +13,11 @@ Após instação, confirme através do comando:
 - `git --version`
 
 O resultado deve ser a versão instalada do git.
+
+<details>
+  <summary><big><b>Exercício</b></big></summary>
+  <ol>
+    <li>Instale o git na sua máquina</li>
+    <li>Verifique a versão instalada através do terminal</li>
+  </ol>
+</details>
