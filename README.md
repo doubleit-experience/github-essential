@@ -8,6 +8,8 @@ Quer aprender sobre git e github? Esse é um guia resumido com muitas referênci
 
 Você vai aprender a trabalhar com o GIT, como criar e gerenciar seus commits e branches. Depois vamos aprender como deixar tudo disponível no GITHUB e como usá-lo de maneira eficiente, como trabalhar em equipe com code review e como deixar seus repositórios e perfil mais atrativos.
 
+
+
 [⏲️ O que é um versionador?](./topics/vcs.md)
 
 [🌱 Conheça o Git](./topics/know-git.md)
