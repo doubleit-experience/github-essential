@@ -20,6 +20,7 @@ Para te ajudar, classificamos os materiais para você saber os mais interessante
 | [Git Cheat Sheets](https://training.github.com/)                                                                        | ⭐⭐          |
 | [Martin Fowler - Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html) | ⭐            |
 | [Top 25 comandos do Git](https://www.codigofonte.com.br/artigos/top-25-comandos-do-git)                                 | ⭐            |
+| [A Git Origin Story](https://www.linuxjournal.com/content/git-origin-story)                                             | ⭐            |
 
 ---
 

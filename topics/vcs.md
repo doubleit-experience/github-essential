@@ -57,5 +57,9 @@ Ou seja, há muitas vantagens em usar um VCS. Todas as equipes precisam usar par
 
 ---
 
-[⬅️ Voltar para o início](./../README.md)
-[➡️ Tópico 2](./../README.md)
+<div style="display: flex; width: 100%; justify-content: space-between">
+<div>
+  <a href="./../README.md">⬅️ Voltar para o início</a>
+</div>
+<div><a href="./../README.md">Tópico 2 ➡️</a></div>
+</div>
