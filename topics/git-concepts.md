@@ -2,10 +2,15 @@
 
 Além de entender como funcionam os comandos do git, é importante compreender alguns conceitos teóricos fundamentais. Dessa forma, será possível usar essa ferramenta de forma muito mais eficiente.
 
+<!-- https://www.lumis.com.br/a-lumis/blog/git-conceitos-basicos.htm -->
+
 #### 1. Snapshots, não diferenças
 
 - Em cada commit, todo o estado do projeto é salvo
-- Se o arquivo não foi modificado, o Git salva um link para a última alteração do mesmo
+- Se o arquivo não foi modificado, o Git salva um link para a última alteração do
+
+![Linha do tempo de checkins](./../assets/images/git-concepts-02.png)
+_Armazenando dados como um estado do conjunto de arquivos do projeto ao longo do tempo._
 
 > Isso faz com que o Git seja mais como um mini sistema de arquivos com algumas ferramentas incrivelmente poderosas, ao invés de simplesmente um VCS.
 > [_Pro Git book, escrito por Scott Chacon e Ben Straub_](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git)

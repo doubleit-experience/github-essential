@@ -14,7 +14,7 @@ Você vai aprender a trabalhar com o GIT, como criar e gerenciar seus commits e 
 
 - [📗 Entenda o funcionamento](./topics/git-concepts.md)
 - [👣 Primeiros passos](./topics/know-git-first-steps.md)
-- 🪖 Conceitos e comandos (em breve)
+- [🪖 Conceitos e comandos](./topics/git-commands.md)
 - 🔀 Workflows (em breve)
 
 :octocat: Conheça o GitHub (em breve)
