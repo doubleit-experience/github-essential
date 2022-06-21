@@ -19,6 +19,8 @@ Você vai aprender a trabalhar com o GIT, como criar e gerenciar seus commits e 
 
 ✳️ Conheça o GitHub (em breve)
 
+---
+
 [🚀 Vá + além](./topics/external-refs.md)
 
 ---
