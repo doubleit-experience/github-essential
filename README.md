@@ -4,7 +4,7 @@
 
 ![GitHub Essential Logo](./assets/images/logo.png)
 
-Quer aprender sobre git e github? Esse é um guia resumido com muitas referências para você não sabe git ou para você que quer se aprofundar! Fique de olho 👀
+Quer aprender sobre git e github? Esse é um guia resumido com muitas referências para você que está começando ou quer se aprofundar! Fique de olho 👀
 
 Você vai aprender a trabalhar com o GIT, como criar e gerenciar seus commits e branches. Depois vamos aprender como deixar tudo disponível no GITHUB e como usá-lo de maneira eficiente, como trabalhar em equipe com code review e como deixar seus repositórios e perfil mais atrativos.
 
@@ -12,12 +12,12 @@ Você vai aprender a trabalhar com o GIT, como criar e gerenciar seus commits e 
 
 [🌱 Conheça o Git](./topics/know-git.md)
 
-- 📗 Entenda o funcionamento (em breve)
-- 👣 [Primeiros passos](./topics/know-git-first-steps.md)
-- 🪖 Conceitos e comandos (em breve)
+- [📗 Entenda o funcionamento](./topics/git-concepts.md)
+- [👣 Primeiros passos](./topics/know-git-first-steps.md)
+- [🪖 Conceitos e comandos](./topics/git-commands.md)
 - 🔀 Workflows (em breve)
 
-✳️ Conheça o GitHub (em breve)
+:octocat: Conheça o GitHub (em breve)
 
 ---
 
