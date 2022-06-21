@@ -4,14 +4,18 @@ De acordo com a pesquisa anual realizada pela Jetbrains "O Estado do Ecossistema
 
 ![Pesquisa anual realizada pela Jetbrains "O Estado do Ecossistema de Desenvolvedores de 2021"](./../assets/images/research-03.png)
 
-### Exercício
+#### 👨🏽‍💻 Mão na massa
 
-####1. Instale o git ⬇️
+##### Instale o git ⬇️
 
 Acesse: https://git-scm.com/downloads
 
-Após instação, confirme através do comando:
+Após instação, no terminal confirme através do comando:
 
 - `git --version`
 
 O resultado deve ser a versão instalada do git.
+
+##### Aprenda mais sobre o git
+
+Veja os [principais comandos do Git](./git-commands.md)
