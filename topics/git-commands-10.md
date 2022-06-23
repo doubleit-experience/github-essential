@@ -6,15 +6,15 @@
 
 <br/>
 
+- Existem muitas ferramentas e interfaces para trabalhar com o Git sem comandos pelo terminal. É bom trabalhar no ínicio com os comandos para entender melhor o funcionamento, só para aí (se desejar) usar ferramentas que abstraem todo esse processo para você.
+  - Nos próximos tópicos, sobre GitHub, veremos algumas dessas opções.
+
+<br/>
+
 ## ☠️
 
 - Evite a todo custo usar comandos com `-f`/`--force`
   - Se você e sua equipe estiverem usando o git direitinho, não vai precisar fazer isso. Mas se for usar, **saiba o que está fazendo!**
-
-<br/>
-
-- Existem muitas ferramentas e interfaces para trabalhar com o Git sem comandos pelo terminal. É bom trabalhar no ínicio com os comandos para entender melhor o funcionamento, só para aí (se desejar) usar ferramentas que abstraem todo esse processo para você.
-  - Nos próximos tópicos, sobre GitHub, veremos algumas dessas opções.
 
 ---
 
