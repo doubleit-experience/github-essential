@@ -25,4 +25,4 @@ Para te ajudar, classificamos os materiais para você saber os mais interessante
 
 ---
 
-[⬅️ Voltar para o início](./../README.md)
+[🏠 Voltar para o início](./../README.md)

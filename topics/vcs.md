@@ -42,7 +42,7 @@ De acordo com a pesquisa anual realizada pela Jetbrains "O Estado do Ecossistema
 - [Mercurial](./vcs-mercurial.md)
 - [Git](./know-git.md)
 
-Leia mais em: [Conheça 5 ferramentas de controle de versão de software](https://gaea.com.br/conheca-5-ferramentas-de-controle-de-versao-de-software/)
+Leia mais em: [Conheça 5 ferramentas de controle de versão de software 🌐](https://gaea.com.br/conheca-5-ferramentas-de-controle-de-versao-de-software/)
 
 #### Por que usar um versionador?
 
@@ -57,9 +57,4 @@ Ou seja, há muitas vantagens em usar um VCS. Todas as equipes precisam usar par
 
 ---
 
-<div style="text-align: right">
-  <a href="./../README.md">⬅️ Voltar para o início</a>
-</div>
-<div>
-  <a href="./../README.md">Tópico 2 ➡️</a>
-</div>
+[🏠 Voltar para o início](./../README.md)

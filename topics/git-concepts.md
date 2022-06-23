@@ -60,3 +60,7 @@ _Armazenando dados como um estado do conjunto de arquivos do projeto ao longo do
 
 > Esta é a principal coisa a lembrar sobre Git se você quiser que o resto do seu processo de aprendizagem ocorra sem problemas. O Git tem três estados principais que seus arquivos podem estar: committed, modificado (modified) e preparado (staged).
 > [_Pro Git book, escrito por Scott Chacon e Ben Straub_](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git)
+
+---
+
+[🏠 Voltar para o início](./../README.md)

@@ -40,4 +40,6 @@ git checkout -b new-branch v0.0.1
 
 ---
 
+[🏠 Voltar para o início](./../README.md)
+
 [⬅️ Branches](./git-commands-03.md) | [Merging ➡️](./git-commands-05.md)

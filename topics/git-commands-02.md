@@ -94,9 +94,11 @@ Exemplo:
 
 Saiba mais:
 
-- [Ignorar arquivos no livro do Pro Git](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#_ignoring)
-- [GitHub docs - Ignorar arquivos](https://docs.github.com/pt/get-started/getting-started-with-git/ignoring-files)
+- [Ignorar arquivos no livro do Pro Git 🌐](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#_ignoring)
+- [GitHub docs - Ignorar arquivos 🌐](https://docs.github.com/pt/get-started/getting-started-with-git/ignoring-files)
 
 ---
+
+[🏠 Voltar para o início](./../README.md)
 
 [⬅️ Repositório](./git-commands-01.md) | [Branches ➡️](./git-commands-03.md)

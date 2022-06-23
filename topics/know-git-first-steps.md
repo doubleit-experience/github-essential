@@ -19,3 +19,7 @@ O resultado deve ser a versão instalada do git.
 ##### Aprenda mais sobre o git
 
 Veja os [principais comandos do Git](./git-commands.md)
+
+---
+
+[🏠 Voltar para o início](./../README.md)

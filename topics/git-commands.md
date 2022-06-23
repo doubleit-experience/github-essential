@@ -22,4 +22,6 @@ Observação: siga a ordem acima para contruir seu aprendizado de forma estrutur
 
 ---
 
-[⬅️ Início](./../README.md) | [Repositório ➡️](./git-commands-01.md)
+[🏠 Voltar para o início](./../README.md)
+
+[Repositório ➡️](./git-commands-01.md)

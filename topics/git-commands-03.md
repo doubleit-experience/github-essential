@@ -7,7 +7,8 @@
 - Os nomes podem ser definidos, não há nomes reservados
 - No git, a manipulação de branches é simples e performática
 
-> A forma como o Git cria branches é incrivelmente leve, tornando as operações de ramificação quase instantâneas, alternando entre os branches geralmente com a mesma rapidez. Ao contrário de muitos outros sistemas, o Git incentiva fluxos de trabalho que se ramificam e se fundem com frequência, até mesmo várias vezes ao dia. **Compreender e dominar esse recurso oferece uma ferramenta poderosa e única e pode mudar totalmente a maneira como você desenvolve.** > [_Pro Git book, escrito por Scott Chacon e Ben Straub_](https://git-scm.com/book/pt-br/v2/Branches-no-Git-Branches-em-poucas-palavras)
+> A forma como o Git cria branches é incrivelmente leve, tornando as operações de ramificação quase instantâneas, alternando entre os branches geralmente com a mesma rapidez. Ao contrário de muitos outros sistemas, o Git incentiva fluxos de trabalho que se ramificam e se fundem com frequência, até mesmo várias vezes ao dia. **Compreender e dominar esse recurso oferece uma ferramenta poderosa e única e pode mudar totalmente a maneira como você desenvolve**.
+> [_Pro Git book, escrito por Scott Chacon e Ben Straub_](https://git-scm.com/book/pt-br/v2/Branches-no-Git-Branches-em-poucas-palavras)
 
 ### Características de uso de branches
 
@@ -34,11 +35,13 @@ A facilidade em gerenciar branches pelo Git permite algumas características que
 
 - `git checkout`[🔗](https://git-scm.com/docs/git-checkout/pt_BR)
   - troca de branches
+  - o Git tem um "ponteiro" que indica um dos branches para ser o "corrente"
 
 #### 👩🏼‍💻 Mão na massa
 
 ```bash
 git branch # lista todos os branches criados (localmente)
+# e destaca o branch corrente
 
 # cria o branch
 git branch novo-branch
@@ -62,5 +65,7 @@ git branch -d branch-01
 ```
 
 ---
+
+[🏠 Voltar para o início](./../README.md)
 
 [⬅️ Commit](./git-commands-02.md) | [Tags ➡️](./git-commands-04.md)
