@@ -1,33 +1,21 @@
-## 9. Push & Pull
+## 10. Considerações
 
-Informa seu git local que ele deve obter as informações de metadados mais recentes do repositório remote (embora ainda não faça a transferência dos dados – é como verificar para ver se há mudanças disponíveis).
+- Os comandos desse guia são suficientes para o trabalho em um repo no dia-a-dia, mas existem **inúmeros outros comandos** que podem ser muito úteis para te ajudar a entender como o Git funciona e te dar mais produtividade.
+  - Veja todos em [GIT COMMANDS 🌐](https://git-scm.com/docs/git#_git_commands)
+  - Mas não precisa saber todos!
 
----
+<br/>
+##☠️
+- Evite a todo custo usar comandos com `-f`/`--force`
+  - Se você e sua equipe estiverem usando o git direitinho, não vai precisar fazer isso. Mas se for usar, **saiba o que está fazendo!**
 
-### 8.1. Sincronizando metadados do remote
+<br/>
 
-- `git fetch`[🔗](https://git-scm.com/docs/git-fetch/pt_BR)
-  - baixa objetos e referências de outros repos (remotes)
-  - sincroniza metadados dos branches, tags, commits, etc, mas não os arquivos em si
-
-#### 👨🏻‍💻 Mão na massa
-
-```bash
-# baixa as referências do remote ORIGIN
-git fetch origin
-
-# baixa as referências do remote ORIGIN, apenas branch-01
-git fetch origin branch-01
-
-# baixa todas as referências para todos
-# os remotes e todos os branches
-git fetch --all
-```
-
-Importante notar que até aqui apenas criamos a conexão do repo local com outro repo (o remote), e sincronizamos os metadados, ainda não "baixamos os arquivos" localmente. É o que veremos nos próximos comandos.
+- Existem muitas ferramentas e interfaces para trabalhar com o Git sem comandos pelo terminal. É bom trabalhar no ínicio com os comandos para entender melhor o funcionamento, só para aí (se desejar) usar ferramentas que abstraem todo esse processo para você.
+  - Nos próximos tópicos, sobre GitHub, veremos algumas dessas opções.
 
 ---
 
 [🏠 Voltar para o início](./../README.md)
 
-[⬅️ Remotes](./git-commands-07.md) | [Push ➡️](./git-commands-09.md)
+[⬅️ Push & Pull](./git-commands-09.md)
