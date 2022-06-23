@@ -1,33 +1,48 @@
 ## 9. Push & Pull
 
-Informa seu git local que ele deve obter as informações de metadados mais recentes do repositório remote (embora ainda não faça a transferência dos dados – é como verificar para ver se há mudanças disponíveis).
+Sincronizam de fato os arquivos num determinado remote, enviando (push) ou recebendo (pull) as atualizações.
 
 ---
 
-### 8.1. Sincronizando metadados do remote
+### 9.1. Recebendo atualizações
 
-- `git fetch`[🔗](https://git-scm.com/docs/git-fetch/pt_BR)
-  - baixa objetos e referências de outros repos (remotes)
-  - sincroniza metadados dos branches, tags, commits, etc, mas não os arquivos em si
+- `git pull`[🔗](https://git-scm.com/docs/git-pull/pt_BR)
+  - faz um fetch e um merge com o branch do remote
+  - atualiza os objetos locais
+  - sincroniza os arquivos (merge) e pode gerar conflitos locais
 
-#### 👨🏻‍💻 Mão na massa
+#### 👩🏻‍💻 Mão na massa
 
 ```bash
-# baixa as referências do remote ORIGIN
-git fetch origin
-
-# baixa as referências do remote ORIGIN, apenas branch-01
-git fetch origin branch-01
-
-# baixa todas as referências para todos
-# os remotes e todos os branches
-git fetch --all
+# faz um fetch e um merge das atualizações do remote
+# com o local, apenas para o branch corrente
+git pull origin
 ```
 
-Importante notar que até aqui apenas criamos a conexão do repo local com outro repo (o remote), e sincronizamos os metadados, ainda não "baixamos os arquivos" localmente. É o que veremos nos próximos comandos.
+### 9.2. Enviando atualizações
+
+- `git push`[🔗](https://git-scm.com/docs/git-push/pt_BR)
+  - atualiza o remote com as referências e objetos locais
+
+#### 👨🏼‍💻 Mão na massa
+
+```bash
+# após realizar os commits, você pode usar o push
+# para enviar suas alterações no repo local para o remote
+
+# envia todas as referências e objetos (arquivos)
+# de MAIN para o remote ORIGIN
+git push origin main
+
+# envia todos os branches
+git push origin --all
+
+# envia todas as tags
+git push origin --tags
+```
 
 ---
 
 [🏠 Voltar para o início](./../README.md)
 
-[⬅️ Remotes](./git-commands-07.md) | [Push ➡️](./git-commands-09.md)
+[⬅️ Fetch](./git-commands-08.md) | [Considerações finais... ➡️](./git-commands-10.md)
