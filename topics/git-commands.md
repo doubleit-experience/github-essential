@@ -17,6 +17,11 @@ A seguir vamos passar pelos **principais conceitos e comandos do Git** que você
 - [3. Branches](./git-commands-03.md)
 - [4. Tags](./git-commands-04.md)
 - [5. Merging](./git-commands-05.md)
+- [6. Logs](./git-commands-06.md)
+- [7. Remotes](./git-commands-07.md)
+- [8. Fetch](./git-commands-08.md)
+- [9. Push & Pull](./git-commands-09.md)
+- [10. Considerações](./git-commands-10.md)
 
 Observação: siga a ordem acima para contruir seu aprendizado de forma estruturada.
 
