@@ -5,7 +5,9 @@
   - Mas não precisa saber todos!
 
 <br/>
+
 ##☠️
+
 - Evite a todo custo usar comandos com `-f`/`--force`
   - Se você e sua equipe estiverem usando o git direitinho, não vai precisar fazer isso. Mas se for usar, **saiba o que está fazendo!**
 
