@@ -19,7 +19,8 @@ Você vai aprender a trabalhar com o GIT, como criar e gerenciar seus commits e 
 
 [📦 O que é um servidor git?](./topics/github/git-server.md)
 
-- ⚫ Conheça o GitHub (em breve)
+- [⚫ Conheça o GitHub](./topics/github/github.md)
+
   - ⚒️ Funcionalidades (em breve)
   - 🌟 Dicas para o repo (em breve)
   - 👤 Dicas para o perfil (em breve)
