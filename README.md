@@ -10,14 +10,20 @@ Você vai aprender a trabalhar com o GIT, como criar e gerenciar seus commits e 
 
 [⏲️ O que é um versionador?](./topics/vcs.md)
 
-[🌱 Conheça o Git](./topics/know-git.md)
+- [🌱 Conheça o Git](./topics/know-git.md)
 
-- [📗 Entenda o funcionamento](./topics/git-concepts.md)
-- [👣 Primeiros passos](./topics/know-git-first-steps.md)
-- [🪖 Conceitos e comandos](./topics/git-commands.md)
-- [🔀 Workflows](./topics/git-workflows.md)
+  - [📗 Entenda o funcionamento](./topics/git-concepts.md)
+  - [👣 Primeiros passos](./topics/know-git-first-steps.md)
+  - [🪖 Conceitos e comandos](./topics/git-commands.md)
+  - [🔀 Workflows](./topics/git-workflows.md)
 
-:octocat: Conheça o GitHub (em breve)
+[📦 O que é um servidor git?](./topics/github/git-server.md)
+
+- ⚫ Conheça o GitHub (em breve)
+  - ⚒️ Funcionalidades (em breve)
+  - 🌟 Dicas para o repo (em breve)
+  - 👤 Dicas para o perfil (em breve)
+  - 🌍 Open source (em breve)
 
 [🚀 Vá + além](./topics/external-refs.md)
 

@@ -1,4 +1,4 @@
-## 🚀 Vá além
+## 🚀 Vá + além
 
 Aqui você vai encontrar referências para aprender mais sobre GIT e GIHUB. Com esse material você pode:
 
