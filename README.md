@@ -24,7 +24,7 @@ Você vai aprender a trabalhar com o GIT, como criar e gerenciar seus commits e 
   - ⚒️ Funcionalidades (em breve)
   - 🌟 Dicas para o repo (em breve)
   - 👤 Dicas para o perfil (em breve)
-  - 🌍 Open source (em breve)
+  - [🌍 Open source](./topics/github/opensource.md)
 
 [🚀 Vá + além](./topics/external-refs.md)
 
