@@ -24,6 +24,7 @@ Para te ajudar, classificamos os materiais para você saber os mais interessante
 | [MARKDOWN Cheatsheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)                               | ⭐            |
 | [List of all Git Commands](https://dev.to/web/list-of-all-git-commands-4m83)                                            | ⭐            |
 | [[freeCodeCamp] Git for Professionals – Free Version Control Course](https://www.freecodecamp.org/news/git-for-professionals/) | ⭐⭐⭐        |
+| [Curso grátis do Willian Justen sobre Git e GitHub](https://www.youtube.com/playlist?list=PLlAbYrWSYTiNqugqFFWWsgONJsmc3eMpg) | ⭐⭐⭐        |
 ---
 
 [🏠 Voltar para o início](./../README.md)
