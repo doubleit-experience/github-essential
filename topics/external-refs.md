@@ -23,7 +23,7 @@ Para te ajudar, classificamos os materiais para você saber os mais interessante
 | [A Git Origin Story](https://www.linuxjournal.com/content/git-origin-story)                                             | ⭐            |
 | [MARKDOWN Cheatsheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)                               | ⭐            |
 | [List of all Git Commands](https://dev.to/web/list-of-all-git-commands-4m83)                                            | ⭐            |
-
+| [[freeCodeCamp] Git for Professionals – Free Version Control Course](https://www.freecodecamp.org/news/git-for-professionals/) | ⭐⭐⭐        |
 ---
 
 [🏠 Voltar para o início](./../README.md)
