@@ -24,4 +24,9 @@ GitHub em números:
 
 ---
 
+### 💖 Há muitas vantagens em utilizar o GitHub!
+Atualmente muitas empresas buscam e contratam devs através do GitHub, que se tornou a rede social para devs do mundo todo!
+
+---
+
 [🏠 Voltar para o início](./../../README.md)
