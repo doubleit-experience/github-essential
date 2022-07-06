@@ -21,7 +21,7 @@ Você vai aprender a trabalhar com o GIT, como criar e gerenciar seus commits e 
 
 - [⚫ Conheça o GitHub](./topics/github/github.md)
 
-  - ⚒️ Funcionalidades (em breve)
+  - [⚒️ Funcionalidades](./topics/github/features.md)
   - 🌟 Dicas para o repo (em breve)
   - 👤 Dicas para o perfil (em breve)
   - [🌍 Open source](./topics/github/opensource.md)
