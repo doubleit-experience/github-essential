@@ -22,8 +22,8 @@ Você vai aprender a trabalhar com o GIT, como criar e gerenciar seus commits e 
 - [⚫ Conheça o GitHub](./topics/github/github.md)
 
   - [⚒️ Funcionalidades](./topics/github/features.md)
-  - 🌟 Dicas para o repo (em breve)
-  - 👤 Dicas para o perfil (em breve)
+  - [🌟 Dicas para o repo](./topics/github/repo-tips.md)
+  - [👤 Dicas para o perfil](./topics/github/profile-tips.md)
   - [🌍 Open source](./topics/github/opensource.md)
 
 [🚀 Vá + além](./topics/external-refs.md)
@@ -32,6 +32,7 @@ Você vai aprender a trabalhar com o GIT, como criar e gerenciar seus commits e 
 
 Quer ficar por dentro das iniciativas de educação e treinamentos da DoubleIT? Nos acompanhe nas redes sociais!
 
-[Linkedin](https://br.linkedin.com/company/doubleit) |
-[Instagram](https://www.instagram.com/doubleitconsultoria/) |
-[Site](https://www.doubleit.com.br/)
+[Linkedin](https://br.linkedin.com/company/doubleit) -
+[Instagram](https://www.instagram.com/doubleitconsultoria/) -
+[Site](https://www.doubleit.com.br/) -
+[Canal no YT](https://www.youtube.com/channel/UCy7BKjTDyE5I-lQGP0UScXQ)
