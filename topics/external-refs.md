@@ -35,6 +35,8 @@ Para te ajudar, classificamos os materiais para você saber os mais interessante
 
 [Curso grátis do Willian Justen sobre Git e GitHub](https://www.youtube.com/playlist?list=PLlAbYrWSYTiNqugqFFWWsgONJsmc3eMpg) ⭐⭐⭐
 
+[Git-Flow, GitHub-Flow, Gitlab-Flow and Trunk Based Development explained](https://steven-giesel.com/blogPost/ff50f268-c0bf-44d8-a5b8-41554ab50ba8) ⭐⭐⭐
+
 ---
 
 [🏠 Voltar para o início](./../README.md)
